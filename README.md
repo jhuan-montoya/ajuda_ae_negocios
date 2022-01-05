@@ -3,7 +3,7 @@ Equipe 49
 
 No github possui:
 1. O código do bot para o whatsapp
-2. O código fonte do site, não foi hospedado porem o todo o condigo foi testado e esta funcional.
+2. O código fonte do site, não hospedado.
 
 Como funciona?
 
